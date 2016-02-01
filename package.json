@@ -1,5 +1,6 @@
 {
   "name": "bitcoinjs-lib",
+  "license": "https://www.colu.co/TOS",
   "version": "2.1.2",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
